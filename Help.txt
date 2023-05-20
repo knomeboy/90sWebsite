@@ -1,0 +1,5 @@
+How to install this website is as follows.
+
+	1. you can get this file from: https://github.com/knomeboy/90sWebsite/discharges/tag/v1.0.0
+	2. separate it from where you downloaded it from utilizing the extracter that accompanied your os or you could utilize 7zip, winrar ect.
+	3. Click on the file, 90s.html, to open it. There, enjoy yourself!
